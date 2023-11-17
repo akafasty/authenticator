@@ -1,0 +1,9 @@
+repo:
+  host: "localhost"
+  user: "root"
+  password: "none"
+  database: "winter-project"
+  port: 3306
+
+app-name: "AkaAuthenticator"
+secret-code: "5OuhsBLm66jg6ZTT"

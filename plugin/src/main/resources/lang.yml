@@ -1,0 +1,12 @@
+login-title:
+  title: "&a&lAUTHENTICATOR!"
+  sub-title: "&7Use: /auth <código>"
+
+login-message: "&eDigite o código de verificação!"
+kick-message: "&cVocê falhou na autenticação!"
+
+auth-title:
+  title: "&aAutenticado com sucesso!"
+  sub-title: ""
+
+auth-message: "&aVocê foi autenticado e agora pode agir normalmente."

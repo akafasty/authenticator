@@ -1,0 +1,4 @@
+#   Aqui estão listadas todas as permissões do plugin.
+#   akaauthenticator.use -> permissão para usar /auth e poder se registrar
+#   akaauthenticator.force -> permissão para obrigar o jogador a registrar um autenticador
+#   akaauthenticator.verify -> permissão para utilizar o comando /auth verify <jogador>
